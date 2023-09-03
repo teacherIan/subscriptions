@@ -40,14 +40,14 @@
 		<div  class="text"><FitText>Subscriptions</FitText></div>
 		<div  class="text">Slides:</div>
 
-		<div class="text">What makes a Viable Subscription</div>
+		<div class="text">What Makes a Viable Subscription</div>
 		<div class="text">Process for Requesting a Subscription</div>
 		<div class="text">Ordering Process</div>
 
 	</Slide>  
 
 	<Slide animate animateId="one">
-		<div class="text"><FitText>What makes a Viable subscription</FitText></div>
+		<div class="text"><FitText>What Makes a Viable Subscription</FitText></div>
 		<Step fadeInThenSemiOut><div class="text-small">Must: Accessible without a VPN</div></Step>
 		<Step fadeInThenSemiOut><div class="text-small">Cost: Below $9 per student, negotiable through EDTech</div></Step>
 		<Step fadeInThenSemiOut><div class="text-small">Preferred: Application software that can be installed locally</div></Step>
